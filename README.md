@@ -6,4 +6,4 @@ The client will enter the city of interest.
 
 The description of the weather will be displayed.
 
-![devops](weatehrDetail.png)
+![devops](weatherDetails.png)
