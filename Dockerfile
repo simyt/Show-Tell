@@ -15,4 +15,4 @@ ENV WEATHER_KEY=abc123 PORT=8080
 
 EXPOSE ${PORT}
 
-ENTRYPOINT SERVER_PORT=${PORT} java -jar target/Application.jar
+ENTRYPOINT SERVER_PORT=${PORT} java -jar target/Show-Tell-0.0.1-SNAPSHOT.jar
